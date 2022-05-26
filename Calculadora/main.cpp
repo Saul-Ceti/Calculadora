@@ -91,3 +91,21 @@ int main()
     system("pause");
     return 0;
 }
+
+//Logica de selección de jerarquia
+
+//
+//switch (dato)
+//{
+//    case +:
+//        break;
+//    case -:
+//        break;
+//    case /:
+//        break;
+//    case *:
+//        break;
+//
+//default:
+//    break;
+//}
